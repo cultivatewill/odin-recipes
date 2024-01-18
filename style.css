@@ -1,0 +1,50 @@
+body{
+    font-family: "Salsa" , sans-serif;
+    background-color: rgb(48, 56, 29);
+}
+.heading{
+    color: rgb(101, 175, 142);
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 200;
+}
+.list{
+    color: aliceblue;
+    font-size: 1.5rem;
+    text-align: center;
+}
+a:link{
+    color: aliceblue;
+}
+a:visited{
+    color: antiquewhite;
+}
+.heading.two{
+font-size: 2rem;
+text-align: left;
+}
+.list.one ,.list.two{
+    text-align: left;
+    font-size: 22px;
+}
+img{
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%;
+ display: block;
+}
+
+.para {
+    color: bisque;
+    text-align: justify;
+}
+.heading.three{
+    font-size: 1.25rem;
+    text-align: left;
+}
+.finish {
+    color: blueviolet;
+    font-weight: 700;
+    text-align: center;
+    font-size: large;
+}
